@@ -10,4 +10,6 @@ package Model;
  */
 public class NewClass {
     private int a;
+    private int b;
+    private int c;
 }
